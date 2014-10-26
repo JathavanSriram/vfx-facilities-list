@@ -1,7 +1,7 @@
 vfx-facilities-list
 =========
 
-A curated list of all vfx facilities around the globe.
+A curated list of all in-business vfx facilities around the globe.
 
 Please feel free to contribute!
 
@@ -59,47 +59,55 @@ Please feel free to contribute!
 
 
 # F
-* [Framestore](http://www.framestore.com) - **London**, Los Angeles, Montreal, New York.
 * [Fido](http://fido.se/) - Hamburg, **Stockholm**.
+* [Framestore](http://www.framestore.com) - **London**, Los Angeles, Montreal, New York City.
+
 
 # G
 
 # H
-Hydraulx
-Hybride
+
+* [Hybride](http://hybride.com) - Piedmont. 
+* [Hydraulx](http://www.hydraulx.com) - London, **Los Angeles**, New Orleans, New York City, Vancouver.
+
 
 # I
-Industrial Light & Magic
-Image Engine
-Intelligent Creatures
+
+* [Image Engine](http://image-engine.com) - Vancouver.
+* [Industrial Light & Magic](http://www.ilm.com/) - London, **San Francisco**, Singapore, Vancouver. 
+* [Intelligent Creatures](http://www.intelligentcreatures.com/) - Toronto.
 
 # J
 
 # K
 
 # L
-Luma Pictures
+
+* [LolaVFX](http://lolavfx.com/) - Los Angeles.
+* [Luma Pictures](http://www.lumapictures.com) - **Los Angeles**, Melbourne.
+
 
 # M
-Mac Guff
-Main Road Post
-Matte World Digital
-Method Studios
-Mikros Image
-Mill Film
-Mirada Studios
-Mr X
-Mokko Studio
+
+* [MAC GUFF](http://www.macguff.com/) - Brussels, **Paris**.
+* [Main Road Post](http://www.mrpost.ru/) - Moscow.
+* [Method Studios](http://www.methodstudios.com/) - Atlanta, Chicago, Detroit, London, **Los Angeles**, Melbourne, New York City, Sydney, Vancouver.
+* [Mikros Image](http://www.mikrosimage.eu/) - Brussels, Liege, Montreal, **Paris**.
+* [Mokko Studio](http://mokkostudio.com/) - Beijing, Los Angeles, **Montreal**.
+* [Mr. X](https://www.mrxfx.com) - New York, **Toronto**.
+
 
 # N
-Nvizible
+* [Nvizible](http://www.nvizible.com) - London.
 
 
 # O
 
 # P
+
 Pixomondo
 PLUG Visual Effects 
+Prana
 Prime Focus
 Prologue Films
 
@@ -123,6 +131,7 @@ The Embassy
 The Moving Picture Company
 Tippett Studio
 Trixter
+* [The Mill](http://www.themill.com/)
 
 # U
 
@@ -138,3 +147,15 @@ Whiskytree
 
 # Z
 Zoic Studios
+
+
+Previz Halon
+
+company3
+efilm
+
+freestudios switzerland
+lfx.lu luxmebourg
+minimovfx
+eight vfx
+celluiloid
