@@ -2,7 +2,7 @@ vfx-facilities-list
 =========
 
 A curated list of all in-business VFX facilities around the globe. This list also
-included previz, post-viz and general R&D companies, which contribute to VFX.
+included previz, post-viz, stereo conversion and general R&D companies, which contribute to VFX.
 
 Please feel free to contribute!
 
@@ -43,6 +43,8 @@ Please feel free to contribute!
 
 # B
 
+* [Baseblack](http://baseblack.com/) - London.
+* [BlueBolt](http://www.blue-bolt.com/) - London.
 * [BUF Compagnie](http://buf.com/) - Brussels, Montreal, Los Angeles, **Paris**.
 
 # C
@@ -69,6 +71,8 @@ Please feel free to contribute!
 
 
 # G
+
+* [Gener8](https://www.gener8.com) - Vancouver.
 
 # H
 
@@ -99,8 +103,10 @@ Please feel free to contribute!
 * [Main Road Post](http://www.mrpost.ru/) - Moscow.
 * [Method Studios](http://www.methodstudios.com/) - Atlanta, Chicago, Detroit, London, **Los Angeles**, Melbourne, New York City, Sydney, Vancouver.
 * [Mikros Image](http://www.mikrosimage.eu/) - Brussels, Liege, Montreal, **Paris**.
+* [Milk VFX](http://www.milk-vfx.com/) - London.
 * [MinimoVfx](http://www.minimovfx.com/) - Barcelona.
 * [Mokko Studio](http://mokkostudio.com/) - Beijing, Los Angeles, **Montreal**.
+* [Molinare](http://molinare.co.uk/) - London.
 * [Mr. X](https://www.mrxfx.com) - New York, **Toronto**.
 
 
@@ -110,6 +116,8 @@ Please feel free to contribute!
 
 
 # O
+
+* [One of Us](http://www.weacceptyou.com/) - London.
 
 # P
 
@@ -123,6 +131,7 @@ Please feel free to contribute!
 
 # R
 
+* [Rainmaker](http://www.rainmaker.com/) - Vancouver.
 * [Rhythm & Hues Studios](http://www.rhythm.com) - Hyderabad, Los Angeles, Mumbai, Vancouver. 
 * [Rise FX](http://www.risefx.com) - Berlin, Cologne, Halle, Vienna.
 * [Rising Sun Pictures](http://rsp.com.au) - Adelaide.
@@ -132,15 +141,18 @@ Please feel free to contribute!
 
 * [Scanline VFX](http://www.scanlinevfx.com) - Cologne, Munich, Los Angeles, Vancouver.
 * [Shade VFX](http://www.shadevfx.com/) - Los Angeles, New York City.
+* [Smoke&Mirrors](http://www.smoke-mirrors.com/) - London, New York City, Shanghai.
 * [Sony Pictures Imageworks](http://www.imageworks.com/) - Los Angeles, **Vancouver**.
 * [SPIN VFX](http://www.spinvfx.com) - Toronto.
 
 
 # T
 
-* [The Embassy](http://theembassyvfx.com/) - Vancouve.
+* [The Brewery](http://www.brewery-vfx.com/) - London.
+* [The Embassy](http://theembassyvfx.com/) - Vancouver.
 * [The Mill](http://www.themill.com/)
 * [The Moving Picture Company](http://www.moving-picture.com/) - Amsterdam, Bangalore, **London**, Los Angeles, Mexico City, Montreal, New York City, Vancouver.
+* [The Senate VFX](http://www.senatevfx.com/) - London, Twickenham.
 * [The Third Floor](http://www.thethirdfloorinc.com) - London, Los Angeles, Montreal.
 * [Tippett Studio](http://www.tippett.com/) - Berkeley.
 * [Trixter](http://www.trixter.de/) - Berlin, Los Angeles, Munich.
@@ -149,6 +161,8 @@ Please feel free to contribute!
 # U
 
 # V
+
+* [Vine FX](http://www.vine.tv/) - London.
 
 # W
 
