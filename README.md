@@ -6,45 +6,66 @@ included previz, post-viz, stereo conversion and general R&D companies, which co
 
 Please feel free to contribute!
 
-* [0-9](#0-9)
-* [A](#a)
-* [B](#b)
-* [C](#c)
-* [D](#d)
-* [E](#e)
-* [F](#f)
-* [G](#g)
-* [H](#h)
-* [I](#i)
-* [J](#j)
-* [K](#k)
-* [L](#l)
-* [M](#m)
-* [N](#n)
-* [O](#o)
-* [P](#p)
-* [Q](#q)
-* [R](#r)
-* [S](#s)
-* [T](#t)
-* [U](#u)
-* [V](#v)
-* [W](#w)
-* [X](#x)
-* [Y](#y)
-* [Z](#z)
++ [0-9](#0-9)
++ [A](#a)
++ [B](#b)
++ [C](#c)
++ [D](#d)
++ [E](#e)
++ [F](#f)
++ [G](#g)
++ [H](#h)
++ [I](#i)
++ [J](#j)
++ [K](#k)
++ [L](#l)
++ [M](#m)
++ [N](#n)
++ [O](#o)
++ [P](#p)
++ [Q](#q)
++ [R](#r)
++ [S](#s)
++ [T](#t)
++ [U](#u)
++ [V](#v)
++ [W](#w)
++ [X](#x)
++ [Y](#y)
++ [Z](#z)
 
 
 # 0-9
 
 # A
 
+* [A52](http://www.a52.com/) - Los Angeles.
+* [Aardman](http://www.aardman.com/) - Bristol.
+* [Acht](http://acht-imaging.com/) - Frankfurt, Hamburg.
+* [Aixsponza](http://www.aixsponza.com/) - Munich.
+* [Alphaville](http://alphaville.se/) - Stockholm.
 * [Animal Logic](http://www.animallogic.com/) - Los Angeles, **Sydney**.
+* [Animationsfabrik](http://www.animationsfabrik.de/) - Hamburg.
+* [Animoto](http://www.animoto.de/) - Munich.
+* [Antfarm](http://www.theantfarm.net/) - Los Angeles. (Are they doing vfx?)
+* [Ambient Entertainment](http://www.ambient-entertainment.de/) - Hanover.
+* [Arri](http://www.arrivfx.de/en/) - Berlin, Cologne, Munich.
+* [Atomic Fiction](http://atomicfiction.com/) - Los Angeles, Montreal, Oakland.
+* [Axis Animation](http://www.axisanimation.com/) - Glasgow. 
 
 # B
 
+* [bakedFX](http://bakedfx.com/) - Los Angeles.
 * [Baseblack](http://baseblack.com/) - London.
+* [Base FX](http://www.base-fx.com/) - Beijing, Wuxi.
+* [Big Lazy Robot](http://biglazyrobot.com/) - Barcelona.
+* [Blackginger](http://www.blackginger.tv/) - Cape Town.
+* [Blackmountain](http://www.blackmountain.de/) - Stuttgart.
+* [Black Sail Pictures](http://www.blacksail.de/) - Berlin.
+* [Blanx](http://www.blanx.de/) - Cologne.
+* [Bleed VFX](http://www.bleedvfx.com/) - Barcelona, Buenos Aires.
 * [BlueBolt](http://www.blue-bolt.com/) - London.
+* [BlueSky Studios](http://blueskystudios.com/) - Greenwich.
 * [BUF Compagnie](http://buf.com/) - Brussels, Montreal, Los Angeles, **Paris**.
 
 # C
