@@ -66,18 +66,39 @@ Please feel free to contribute!
 * [Bleed VFX](http://www.bleedvfx.com/) - Barcelona, Buenos Aires.
 * [BlueBolt](http://www.blue-bolt.com/) - London.
 * [BlueSky Studios](http://blueskystudios.com/) - Greenwich.
+* [Blur Studios](http://blur.com/) - Los Angeles.
+* [Brainstorm Digital](http://www.brainstorm-digital.com/) - New York City.
+* [Brickyard VFX](http://www.brickyardvfx.com/) - Los Angeles, Boston.
+* [Brokendoll](http://www.brokendoll.com/) - Stockholm.
+* [Buck](http://www.buck.tv/) - Los Angeles, New York City.
 * [BUF Compagnie](http://buf.com/) - Brussels, Montreal, Los Angeles, **Paris**.
+* [Bug](http://www.bug.no/) - Bergen.
 
 # C
 
+* [Cantina Creative](http://cantinacreative.com/) - Los Angeles.
+* [Capture Media](http://www.capture-mm.de/) - Duesseldorf.
 * [Cause+FX](http://www.causefx.co.nz/) - Auckland.
+* [ChezEddy](http://www.chezeddy.com/) - Paris.
 * [Celluiloid VFX](http://celluloid-vfx.com/) - Berlin.
+* [Chimney](http://www.chimneygroup.com/) - Berlin, Frankfurt, Singapore, Stockholm, Sydney, Warsaw.
+* [Chris Creatures Filmeffects](http://www.chriscreatures.com/) - Berlin.
 * [Cinesite](http://www.cinesite.com/) - **London**, Montreal.
+* [Comen VFX](http://www.comenvfx.com/) - Los Angeles.
+* [Congaz](http://www.congaz.de/) - Berlin, Duesseldorf.
+* [Crazy Horse Effects](http://www.chevfx.com/) - Los Angeles, New Paltz(NY).
+* [Cutting Edge](http://www.cuttingedge.com.au/) - Brisbane, Melbourne, Sydney.
 
 # D
 
+* [D-Facto Motion](http://www.vfx.d-facto-motion.com/) - Berlin, Cologne, Hamburg, Munich, Stuttgart.
+* [Deli Pictures](http://www.delipictures.de/) - Hamburg.
+* [Digic Pictures](http://www.digicpictures.com/) - Budapest.
+* [Digiscope](http://www.digiscope.com/) - Los Angeles.
+* [Digital Dimension](http://www.digitaldimension.com/) - Montreal.
 * [Digital District](http://www.digital-district.fr) - Brussels, Montreal, **Paris**, Shanghai.
 * [Digital Domain](http://www.digitaldomain.com) - Los Angeles, Vancouver.
+* [Digital Kitchen Studios](http://www.dkstudios.com/) - Chicago, Los Angeles, Seattle.
 * [Double Negative](http://www.dneg.com) - **London**, Singapore, Vancouver.
 
 # E
