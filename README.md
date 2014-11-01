@@ -91,6 +91,7 @@ Please feel free to contribute!
 
 # D
 
+* [Das Werk](http://www.das-werk.de/) - Amsterdam, Berlin, Cologne, Duesseldorf, Frankfurt, Hamburg, Munich.
 * [D-Facto Motion](http://www.vfx.d-facto-motion.com/) - Berlin, Cologne, Hamburg, Munich, Stuttgart.
 * [Deli Pictures](http://www.delipictures.de/) - Hamburg.
 * [Digic Pictures](http://www.digicpictures.com/) - Budapest.
@@ -100,21 +101,46 @@ Please feel free to contribute!
 * [Digital Domain](http://www.digitaldomain.com) - Los Angeles, Vancouver.
 * [Digital Kitchen Studios](http://www.dkstudios.com/) - Chicago, Los Angeles, Seattle.
 * [Double Negative](http://www.dneg.com) - **London**, Singapore, Vancouver.
+* [Dreamsworks Animation](http://www.dreamworksanimation.com/) - Glendale, Redwood City, Shanghai.
+* [Duck](http://www.duckstudios.com/) - Los Angeles.
+* [Duckling](http://duckling.dk/) - Copenhagen.
+* [Dvein](http://www.dvein.com/) - Barcelona.
 
 # E
 
+* [Effekt Etage](http://www.effekt-etage.de/) - Berlin.
 * [Eight VFX](http://www.eightvfx.com) - London, Los Angeles, New York City.
+* [Electric Theatre Collective](http://electrictheatre.tv/) - London.
+* [Elefant Studios](http://www.elefantstudios.ch/) - Zurich.
+* [Encore](http://www.encorepost.com/) - London, Los Angeles, New York City, Vancouver.
+* [Engine Room](http://www.engineroomhollywood.com/) - Los Angeles.
+* [Entity FX](http://www.entityfx.com/) - Los Angeles, Vancouver.
+* [Evil Eye Pictures](http://www.evileyepictures.com/) - San Francisco.
+* [Exozet](http://www.exozet.com/) - Berlin, Vienna.
 
 
 # F
 
 * [Fido](http://fido.se/) - Hamburg, **Stockholm**.
+* [Fiftyeight](http://www.fiftyeight.com/) - Frankfurt.
+* [Finish](http://www.finish.tv/) - London.
+* [Fish Blowing Bubbles](http://www.fishblowing.com/) - Munich.
+* [Flash Film Works](http://www.flashfilmworks.com/) - Los Angeles.
 * [Framestore](http://www.framestore.com) - **London**, Los Angeles, Montreal, New York City.
+* [Framework Studio](http://frameworkla.com/) - Los Angeles.
+* [Frost FX](http://frostfx.ee/) - Tallinn.
+* [fx3x](http://www.fx3x.com/) -  Skopje.
+* [FX Factory](http://fxit.de/) - Berlin.
 
 
 # G
 
+* [Gate.11](http://www.gate11.de/) - Munich.
 * [Gener8](https://www.gener8.com) - Vancouver.
+* [GeniusPark](http://genius-park.com/) - Istanbul.
+* [Ghost VFX](http://ghost.dk/) - Copenhagen, Viborg.
+* [GiantMilkCan](http://www.giantmilkcan.com/) - Hamburg.
+* [Glassworks](http://www.glassworks.co.uk/) - Amsterdam, Barcelona, London. 
 
 # H
 
