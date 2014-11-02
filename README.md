@@ -280,9 +280,13 @@ Please feel free to contribute!
 * [Stopp](http://www.stopp.se/) - London, Los Angeles, New York City, Stockholm.
 * [Studio Aka](http://www.studioaka.co.uk/) - London.
 * [Suedlich-t](http://www.lich-t.info/) - Munich, Zurich.
+* [Swiss](http://www.swiss.se/) - Stockholm.
 
 # T
 
+* [Ten 24](http://www.ten24.info/) - Sheffield.
+* [Tendril](http://www.tendril.ca/) - Toronto.
+* [Theory FX](http://www.theoryfx.com/) - Los Angeles.
 * [The Brewery](http://www.brewery-vfx.com/) - London.
 * [The Embassy](http://theembassyvfx.com/) - Vancouver.
 * [The Marmelade](http://www.themarmalade.com/) - Duesseldorf, Frankfurt, Hamburg.
@@ -290,20 +294,36 @@ Please feel free to contribute!
 * [The Moving Picture Company](http://www.moving-picture.com/) - Amsterdam, Bangalore, **London**, Los Angeles, Mexico City, Montreal, New York City, Vancouver.
 * [The Senate VFX](http://www.senatevfx.com/) - London, Twickenham.
 * [The Third Floor](http://www.thethirdfloorinc.com) - London, Los Angeles, Montreal.
+* [The Visual Effects Company](http://www.thevfxco.co.uk/) - London.
+* [Tilt](http://www.tilt-vfx.com/) - Kiev.
 * [Tippett Studio](http://www.tippett.com/) - Berkeley.
+* [Toppix](http://www.topixfx.com/) - Toronto. 
 * [Trixter](http://www.trixter.de/) - Berlin, Los Angeles, Munich.
+* [Troublemaker Studios](http://www.troublemakerstudios.com/) - Austin.
 
 
 # U
 
+* [UMedia VFX](http://www.umedia.eu/) - Brussels, London.
+* [Uncharted Territory](http://www.uncharted-territory.com/) - Los Angeles.
+* [Unexpected](http://www.unexpected.de/) - Stuttgart.
+* [Unit Image](http://www.unit-image.fr/) - Paris.
+* [UPP](http://www.upp.cz/) - Prague.
+
 # V
 
+* [Velvet](http://www.velvet.de/) - Munich.
 * [Vine FX](http://www.vine.tv/) - London.
+* [Virtual Republic](http://www.virtualrepublic.org/) - Duesseldorf.
+* [Vitamin Pictures](http://vitaminpictures.tv/) - Chicago.
 
 # W
 
+* [WeAreFlink](http://www.weareflink.com/) - Hamburg.
 * [Weta Digital](https://www.wetafx.co.nz) - Wellington.
 * [Whiskytree](http://www.whiskytree.com/) - San Rafael.
+* [Wizz](http://www.wizz.fr/) - Paris.
+* [WorldWide FX](http://www.wwfx.net/) - Shreveport, Sofia.
 
 # X
 
