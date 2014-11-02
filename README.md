@@ -37,6 +37,8 @@ Please feel free to contribute!
 
 # 0-9
 
+* [3DXCITE](http://www.rtt.ag/) - Brussels, Detroit, London, Los Angeles, **Munich**, Seoul, Shanghai, Tokyo. 
+
 # A
 
 * [A52](http://www.a52.com/) - Los Angeles.
@@ -234,30 +236,50 @@ Please feel free to contribute!
 * [Parosol Island](http://www.parasol-island.com/) - Berlin, Duesseldorf.
 * [Pendulum Studios](http://www.studiopendulum.com/) - Los Angeles.
 * [Phosphene](http://phosphenefx.com/) - New York City.
+* [Picture Mill](http://www.picturemill.com/) - Los Angeles.
+* [Pixar](http://www.pixar.com/) - Emeryville.
+* [Pixel Liberation Front](http://www.thefront.com/) - Los Angeles.
 * [Pixomondo](http://www.pixomondo.com) - Baton Rouge, Beijing, Frankfurt, Los Angeles, Munich,  Shanghai, Stuttgart, Toronto.
-* [PLUG Visual Effects](http://www.plugeffects.com) - Paris. 
+* [Planet X FX](http://www.planetxfx.com/) - Amsterdam.
+* [Plastic Wax](http://plasticwax.com/) - Sydney.
+* [Platige Image](http://www.platige.com/) - Warsaw.
+* [Plenty](http://www.plenty.tv/) - Buenos Aires.
+* [PLUG Visual Effects](http://www.plugeffects.com) - Paris.
+* [Polynoid](http://www.polynoid.tv/) - Berlin. 
 * [Prana Studios](http://www.pranastudios.com) - Los Angeles, **Mumbai**.
 * [Prime Focus World](http://www.primefocusworld.com) - Beijing, London, Los Angeles, Mumbai, New York City, Vancouver.
 * [Prologue Films](http://www.prologue.com) - Los Angeles.
+* [Proof](http://www.proof-inc.com/) - London, Los Angeles.
+* [Psyop](http://www.psyop.tv/) - Los Angeles, New York City, Vancouver.
 
 # Q
 
 # R
 
 * [Rainmaker](http://www.rainmaker.com/) - Vancouver.
+* [Reliance Media Works](http://www.reliancemediaworks.com/) - Los Angeles, Mumbai.
 * [Rhythm & Hues Studios](http://www.rhythm.com) - Hyderabad, Los Angeles, Mumbai, Vancouver. 
 * [Rise FX](http://www.risefx.com) - Berlin, Cologne, Halle, Vienna.
 * [Rising Sun Pictures](http://rsp.com.au) - Adelaide.
 * [Rodeo FX](http://www.rodeofx.com) - Montreal, New York City, Quebec City.
+* [Rushes](http://www.rushes.co.uk/) - London.
 
 # S
 
 * [Scanline VFX](http://www.scanlinevfx.com) - Cologne, Munich, Los Angeles, Vancouver.
+* [Scoundrel](http://www.scoundrelvfx.com/) - Los Angeles.
+* [Sehsucht](http://www.sehsucht.de/) - Berlin, Hamburg.
 * [Shade VFX](http://www.shadevfx.com/) - Los Angeles, New York City.
 * [Smoke&Mirrors](http://www.smoke-mirrors.com/) - London, New York City, Shanghai.
+* [Snowball Studios](http://www.snowballvfx.com/) - London, New York City, Tel Aviv, Toronto.
+* [Softmachine](http://www.softmachine.de/) - Munich.
+* [Soho VFX](http://sohovfx.com/) - Toronto.
 * [Sony Pictures Imageworks](http://www.imageworks.com/) - Los Angeles, **Vancouver**.
 * [SPIN VFX](http://www.spinvfx.com) - Toronto.
-
+* [Stargate Studios](http://www.stargatestudios.net/) - Atlanta, Bahar ic-Caghaq(Malta), Berlin, Cologne, Dubai, Los Angeles, Toronto, Vancouver.
+* [Stopp](http://www.stopp.se/) - London, Los Angeles, New York City, Stockholm.
+* [Studio Aka](http://www.studioaka.co.uk/) - London.
+* [Suedlich-t](http://www.lich-t.info/) - Munich, Zurich.
 
 # T
 
