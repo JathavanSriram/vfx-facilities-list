@@ -2,7 +2,7 @@ vfx-facilities-list
 =========
 
 A curated list of all in-business VFX facilities around the globe. This list also
-included previz, post-viz, stereo conversion and general R&D companies, which contribute to VFX.
+included previz, post-viz, cg, animation, stereo conversion and general R&D companies, which contribute to VFX.
 
 Please feel free to contribute!
 
@@ -141,54 +141,99 @@ Please feel free to contribute!
 * [Ghost VFX](http://ghost.dk/) - Copenhagen, Viborg.
 * [GiantMilkCan](http://www.giantmilkcan.com/) - Hamburg.
 * [Glassworks](http://www.glassworks.co.uk/) - Amsterdam, Barcelona, London. 
+* [Gradient Effects](http://www.gradientfx.com/) - Frankfurt, Istanbul, London, Los Angeles.
+* [Ground Studios](http://www.ground-studios.com/) - Duesseldorf.
 
 # H
 
 * [Halon](http://www.halon.com) - Los Angeles.
+* [Hammerhead Productions](http://www.hammerhead.com/) - Los Angeles.
+* [Helmet](http://www.helmet.no/) - Trondheim.
+* [HOPR](http://hopr.tv/) - New York City.
+* [House Special](http://www.housespecial.com/) - Portland.
+* [Hoxton Redsox](http://www.hoxtonredsox.com/) - London.
 * [Hybride](http://hybride.com) - Piedmont. 
 * [Hydraulx](http://www.hydraulx.com) - London, **Los Angeles**, New Orleans, New York City, Vancouver.
 
 
 # I
 
+* [Iloura](http://iloura.com/) - Melbourne, Sydney.
 * [Image Engine](http://image-engine.com) - Vancouver.
-* [Industrial Light & Magic](http://www.ilm.com/) - London, **San Francisco**, Singapore, Vancouver. 
+* [Imaginary Forces](http://www.imaginaryforces.com/) - Los Angeles, New York.
+* [Important Looking Pirates](http://ilpvfx.com/) - Stockholm. 
+* [Industrial Light & Magic](http://www.ilm.com/) - London, **San Francisco**, Singapore, Vancouver.
+* [Infected](http://www.infected-post.de/) - Hamburg.
+* [Ingenuity Engine](http://www.ievfx.com/) - Los Angeles, New York City.
 * [Intelligent Creatures](http://www.intelligentcreatures.com/) - Toronto.
+* [Interiorsphere](http://www.interiorsphere.com/) - Munich.
 
 # J
 
+* [Jellyfish Pictures](http://www.jellyfishpictures.co.uk/) - London.
+
 # K
+
+* [Kilt Studios](http://www.kiltstudios.com/) - Los Angeles.
 
 # L
 
+* [La Maison](http://alamaison.fr/) - Paris.
+* [Laika](http://laika.com/) - Portland.
+* [Level 256](http://www.level256vfx.com/) - Los Angeles.
+* [Liga 01](http://www.liga01.com/) - Munich.
+* [LipSync Post](http://www.lipsyncpost.co.uk/) - London.
+* [Liquid Image](http://www.liquidimage.de/) - Berlin.
+* [Logan](http://www.logan.tv/) - Los Angeles, New York City.
 * [LolaVFX](http://lolavfx.com/) - Los Angeles.
+* [Lucasfilm Animation](http://lucasfilm.com/) - San Francisco, Singapore.
+* [Lug und Trug](http://www.lugundtrug.net/) - Berlin.
 * [Luma Pictures](http://www.lumapictures.com) - **Los Angeles**, Melbourne.
+* [LUXX Studios](http://www.luxx-studios.com/) - Stuttgart.
 
 
 # M
 
 * [MAC GUFF](http://www.macguff.com/) - Brussels, **Paris**.
+* [Mackevision](http://www.mackevision.de/) -  Detroit, Hamburg, London, Los Angeles, Munich, Shanghai, **Stuttgart**.
+* [Madness](http://www.3dmadness.de/) - Goeppingen.
+* [Magna Mana](http://www.magnamana.com/) - Frankfurt.
+* [Magnetic Dreams](http://www.magneticdreams.com/) - Nashville.
 * [Main Road Post](http://www.mrpost.ru/) - Moscow.
+* [Mark 13](http://www.mark13.com/) - Berlin, Stuttgart.
+* [Mass Market](http://www.massmarket.tv/) - Los Angeles, New York City.
+* [Meindbender](http://www.meindbender.com/) - Goeteborg.
 * [Method Studios](http://www.methodstudios.com/) - Atlanta, Chicago, Detroit, London, **Los Angeles**, Melbourne, New York City, Sydney, Vancouver.
 * [Mikros Image](http://www.mikrosimage.eu/) - Brussels, Liege, Montreal, **Paris**.
 * [Milk VFX](http://www.milk-vfx.com/) - London.
 * [MinimoVfx](http://www.minimovfx.com/) - Barcelona.
+* [Modus X](http://www.modus-x.de/) - Munich.
 * [Mokko Studio](http://mokkostudio.com/) - Beijing, Los Angeles, **Montreal**.
 * [Molinare](http://molinare.co.uk/) - London.
+* [Morro Images](http://www.morroimages.com/) - Berlin, St.Catharines.
 * [Mr. X](https://www.mrxfx.com) - New York, **Toronto**.
 
 
 # N
 
+* [nhb](http://www.nhb.de/) - Berlin, Duesseldorf, Hamburg.
+* [Ntropic](http://www.ntropic.com/) - Los Angeles, New York City, San Francisco.
 * [Nvizible](http://www.nvizible.com) - London.
 
 
 # O
 
+* [Oblique FX](http://www.obliquefx.com/) - Montreal.
 * [One of Us](http://www.weacceptyou.com/) - London.
+* [OneSize](http://onesize.nl/) - Amsterdam, Los Angeles.
+* [Optix](http://www.optixhamburg.de/) - Berlin, Dubai, Hamburg.
 
 # P
 
+* [Palma VFX](http://palmavfx.com/) - San Francisco.
+* [Parosol Island](http://www.parasol-island.com/) - Berlin, Duesseldorf.
+* [Pendulum Studios](http://www.studiopendulum.com/) - Los Angeles.
+* [Phosphene](http://phosphenefx.com/) - New York City.
 * [Pixomondo](http://www.pixomondo.com) - Baton Rouge, Beijing, Frankfurt, Los Angeles, Munich,  Shanghai, Stuttgart, Toronto.
 * [PLUG Visual Effects](http://www.plugeffects.com) - Paris. 
 * [Prana Studios](http://www.pranastudios.com) - Los Angeles, **Mumbai**.
@@ -218,6 +263,7 @@ Please feel free to contribute!
 
 * [The Brewery](http://www.brewery-vfx.com/) - London.
 * [The Embassy](http://theembassyvfx.com/) - Vancouver.
+* [The Marmelade](http://www.themarmalade.com/) - Duesseldorf, Frankfurt, Hamburg.
 * [The Mill](http://www.themill.com/)
 * [The Moving Picture Company](http://www.moving-picture.com/) - Amsterdam, Bangalore, **London**, Los Angeles, Mexico City, Montreal, New York City, Vancouver.
 * [The Senate VFX](http://www.senatevfx.com/) - London, Twickenham.
