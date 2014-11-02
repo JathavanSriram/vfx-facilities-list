@@ -2,9 +2,11 @@ vfx-facilities-list
 =========
 
 A curated list of all in-business VFX facilities around the globe. This list also
-included previz, post-viz, cg, animation, stereo conversion and general R&D companies, which contribute to VFX.
+includes previz, post-viz, cg, animation, stereo conversion and general R&D companies, which contribute to VFX.
 
-Please feel free to contribute!
+
+**Is your facility missing?** If you want to add a facility to the list, please [ask me on Twitter](https://twitter.com/JathavanSriram) or [open an issue on GitHub](https://github.com/vfx-engineering/vfx-facilities-list/issues/new).
+
 
 + [0-9](#0-9)
 + [A](#a)
