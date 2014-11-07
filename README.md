@@ -57,6 +57,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Antfarm](http://www.theantfarm.net/) - Los Angeles. (Are they doing vfx?)
 * [Ambient Entertainment](http://www.ambient-entertainment.de/) - Hanover.
 * [Arri](http://www.arrivfx.de/en/) - Berlin, Cologne, Munich.
+* [Arsenal FX](http://arsenalfx.tv/) - Los Angeles.
 * [Artifex Animations Studios](http://www.aastudios.ca/) - Montreal.
 * [Atomic Fiction](http://atomicfiction.com/) - Los Angeles, Montreal, Oakland.
 * [Axis Animation](http://www.axisanimation.com/) - Glasgow. 
@@ -136,6 +137,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Finish](http://www.finish.tv/) - London.
 * [Fish Blowing Bubbles](http://www.fishblowing.com/) - Munich.
 * [Flash Film Works](http://www.flashfilmworks.com/) - Los Angeles.
+* [Flavor](http://flavor.tv/) - Chicago, Los Angeles.
 * [Folks VFX](http://www.folksvfx.com/) - Montreal.
 * [Framestore](http://www.framestore.com) - **London**, Los Angeles, Montreal, New York City.
 * [Framework Studio](http://frameworkla.com/) - Los Angeles.
@@ -275,6 +277,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Raynault VFX](http://www.raynault.com/) - Montreal.
 * [Red Chillies VFX](http://www.redchilliesvfx.com/) - Mumbai.
 * [Reliance Media Works](http://www.reliancemediaworks.com/) - Los Angeles, Mumbai.
+* [Resolution](http://www.resolution.la/) - Los Angeles.
 * [Rhythm & Hues Studios](http://www.rhythm.com) - Hyderabad, Los Angeles, Mumbai, Vancouver. 
 * [Rise FX](http://www.risefx.com) - Berlin, Cologne, Halle, Vienna.
 * [Rising Sun Pictures](http://rsp.com.au) - Adelaide.
