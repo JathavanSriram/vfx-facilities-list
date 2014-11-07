@@ -39,7 +39,8 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 
 # 0-9
 
-* [3DXCITE](http://www.rtt.ag/) - Brussels, Detroit, London, Los Angeles, **Munich**, Seoul, Shanghai, Tokyo. 
+* [3DXCITE](http://www.rtt.ag/) - Brussels, Detroit, London, Los Angeles, **Munich**, Seoul, Shanghai, Tokyo.
+* [567vfx](http://www.567vfx.ca/) - Toronto.
 
 # A
 
@@ -54,6 +55,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Antfarm](http://www.theantfarm.net/) - Los Angeles. (Are they doing vfx?)
 * [Ambient Entertainment](http://www.ambient-entertainment.de/) - Hanover.
 * [Arri](http://www.arrivfx.de/en/) - Berlin, Cologne, Munich.
+* [Artifex Animations Studios](http://www.aastudios.ca/) - Montreal.
 * [Atomic Fiction](http://atomicfiction.com/) - Los Angeles, Montreal, Oakland.
 * [Axis Animation](http://www.axisanimation.com/) - Glasgow. 
 
@@ -106,6 +108,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Digital Kitchen Studios](http://www.dkstudios.com/) - Chicago, Los Angeles, Seattle.
 * [Double Negative](http://www.dneg.com) - **London**, Singapore, Vancouver.
 * [Dreamsworks Animation](http://www.dreamworksanimation.com/) - Glendale, Redwood City, Shanghai.
+* [Drive VFX](http://www.drive-vfx.com/) - Montreal.
 * [Duck](http://www.duckstudios.com/) - Los Angeles.
 * [Duckling](http://duckling.dk/) - Copenhagen.
 * [Dvein](http://www.dvein.com/) - Barcelona.
@@ -130,8 +133,10 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Finish](http://www.finish.tv/) - London.
 * [Fish Blowing Bubbles](http://www.fishblowing.com/) - Munich.
 * [Flash Film Works](http://www.flashfilmworks.com/) - Los Angeles.
+* [Folks VFX](http://www.folksvfx.com/) - Montreal.
 * [Framestore](http://www.framestore.com) - **London**, Los Angeles, Montreal, New York City.
 * [Framework Studio](http://frameworkla.com/) - Los Angeles.
+* [Frima FX Studio](http://frimastudio.com/home) - Montreal.
 * [Frost FX](http://frostfx.ee/) - Tallinn.
 * [fx3x](http://www.fx3x.com/) -  Skopje.
 * [FX Factory](http://fxit.de/) - Berlin.
@@ -240,6 +245,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Phosphene](http://phosphenefx.com/) - New York City.
 * [Picture Mill](http://www.picturemill.com/) - Los Angeles.
 * [Pixar](http://www.pixar.com/) - Emeryville.
+* [Pixel Magic](http://www.pixelmagicfx.com/) - Lafayette, Los Angeles.
 * [Pixel Liberation Front](http://www.thefront.com/) - Los Angeles.
 * [Pixomondo](http://www.pixomondo.com) - Baton Rouge, Beijing, Frankfurt, Los Angeles, Munich,  Shanghai, Stuttgart, Toronto.
 * [Planet X FX](http://www.planetxfx.com/) - Amsterdam.
@@ -259,6 +265,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 # R
 
 * [Rainmaker](http://www.rainmaker.com/) - Vancouver.
+* [Raynault VFX](http://www.raynault.com/) - Montreal.
 * [Reliance Media Works](http://www.reliancemediaworks.com/) - Los Angeles, Mumbai.
 * [Rhythm & Hues Studios](http://www.rhythm.com) - Hyderabad, Los Angeles, Mumbai, Vancouver. 
 * [Rise FX](http://www.risefx.com) - Berlin, Cologne, Halle, Vienna.
