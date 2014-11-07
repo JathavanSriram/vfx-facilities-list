@@ -39,6 +39,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 
 # 0-9
 
+* [1000volt](http://www.1000volt.com.tr/) - Istanbul, Los Angeles.
 * [3DXCITE](http://www.rtt.ag/) - Brussels, Detroit, London, Los Angeles, **Munich**, Seoul, Shanghai, Tokyo.
 * [567vfx](http://www.567vfx.ca/) - Toronto.
 
@@ -49,6 +50,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Acht](http://acht-imaging.com/) - Frankfurt, Hamburg.
 * [Aixsponza](http://www.aixsponza.com/) - Munich.
 * [Alphaville](http://alphaville.se/) - Stockholm.
+* [Anima Istanbul](http://www.animaistanbul.com/) - Istanbul.
 * [Animal Logic](http://www.animallogic.com/) - Los Angeles, **Sydney**.
 * [Animationsfabrik](http://www.animationsfabrik.de/) - Hamburg.
 * [Animoto](http://www.animoto.de/) - Munich.
@@ -116,6 +118,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 # E
 
 * [Effekt Etage](http://www.effekt-etage.de/) - Berlin.
+* [EFX](http://www.efxmagic.com/) - Bangalore, Chennai, Hyderabad, Mumbai.
 * [Eight VFX](http://www.eightvfx.com) - London, Los Angeles, New York City.
 * [Electric Theatre Collective](http://electrictheatre.tv/) - London.
 * [Elefant Studios](http://www.elefantstudios.ch/) - Zurich.
@@ -151,6 +154,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [GiantMilkCan](http://www.giantmilkcan.com/) - Hamburg.
 * [Glassworks](http://www.glassworks.co.uk/) - Amsterdam, Barcelona, London. 
 * [Gradient Effects](http://www.gradientfx.com/) - Frankfurt, Istanbul, London, Los Angeles.
+* [Grid VFX](http://www.grid-vfx.com/) - Brussels.
 * [Ground Studios](http://www.ground-studios.com/) - Duesseldorf.
 
 # H
@@ -209,6 +213,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Magna Mana](http://www.magnamana.com/) - Frankfurt.
 * [Magnetic Dreams](http://www.magneticdreams.com/) - Nashville.
 * [Main Road Post](http://www.mrpost.ru/) - Moscow.
+* [Makuta VFX](http://www.makutavfx.com/) - Hyderabad.
 * [Mark 13](http://www.mark13.com/) - Berlin, Stuttgart.
 * [Mass Market](http://www.massmarket.tv/) - Los Angeles, New York City.
 * [Meindbender](http://www.meindbender.com/) - Goeteborg.
@@ -217,10 +222,12 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Milk VFX](http://www.milk-vfx.com/) - London.
 * [MinimoVfx](http://www.minimovfx.com/) - Barcelona.
 * [Modus X](http://www.modus-x.de/) - Munich.
+* [Mojo](http://www.mojofx.net/) - Istanbul.
 * [Mokko Studio](http://mokkostudio.com/) - Beijing, Los Angeles, **Montreal**.
 * [Molinare](http://molinare.co.uk/) - London.
 * [Morro Images](http://www.morroimages.com/) - Berlin, St.Catharines.
 * [Mr. X](https://www.mrxfx.com) - New York, **Toronto**.
+* [Multitude9 FX](http://www.m9fx.com/) - Hyderabad.
 
 
 # N
@@ -266,10 +273,12 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 
 * [Rainmaker](http://www.rainmaker.com/) - Vancouver.
 * [Raynault VFX](http://www.raynault.com/) - Montreal.
+* [Red Chillies VFX](http://www.redchilliesvfx.com/) - Mumbai.
 * [Reliance Media Works](http://www.reliancemediaworks.com/) - Los Angeles, Mumbai.
 * [Rhythm & Hues Studios](http://www.rhythm.com) - Hyderabad, Los Angeles, Mumbai, Vancouver. 
 * [Rise FX](http://www.risefx.com) - Berlin, Cologne, Halle, Vienna.
 * [Rising Sun Pictures](http://rsp.com.au) - Adelaide.
+* [Robotika](http://robotika.com.tr/) - Istanbul.
 * [Rodeo FX](http://www.rodeofx.com) - Montreal, New York City, Quebec City.
 * [Rushes](http://www.rushes.co.uk/) - London.
 
@@ -277,8 +286,10 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 
 * [Scanline VFX](http://www.scanlinevfx.com) - Cologne, Munich, Los Angeles, Vancouver.
 * [Scoundrel](http://www.scoundrelvfx.com/) - Los Angeles.
+* [Seed Animation Studio](http://www.seedanimation.com/) - London.
 * [Sehsucht](http://www.sehsucht.de/) - Berlin, Hamburg.
 * [Shade VFX](http://www.shadevfx.com/) - Los Angeles, New York City.
+* [Sinefekt](http://www.sinefekt.net/EN/) - Istanbul.
 * [Smoke&Mirrors](http://www.smoke-mirrors.com/) - London, New York City, Shanghai.
 * [Snowball Studios](http://www.snowballvfx.com/) - London, New York City, Tel Aviv, Toronto.
 * [Softmachine](http://www.softmachine.de/) - Munich.
@@ -290,6 +301,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Studio Aka](http://www.studioaka.co.uk/) - London.
 * [Suedlich-t](http://www.lich-t.info/) - Munich, Zurich.
 * [Swiss](http://www.swiss.se/) - Stockholm.
+* [Syndicate](http://www.syndicate.se/) - Stockholm.
 
 # T
 
