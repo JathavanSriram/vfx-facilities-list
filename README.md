@@ -93,6 +93,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Chimney](http://www.chimneygroup.com/) - Berlin, Frankfurt, Singapore, Stockholm, Sydney, Warsaw.
 * [Chris Creatures Filmeffects](http://www.chriscreatures.com/) - Berlin.
 * [Cinesite](http://www.cinesite.com/) - **London**, Montreal.
+* [Coffee and Pixels](http://www.coffeeandpixels.net/) - Denver.
 * [Comen VFX](http://www.comenvfx.com/) - Los Angeles.
 * [Congaz](http://www.congaz.de/) - Berlin, Duesseldorf.
 * [Crazy Horse Effects](http://www.chevfx.com/) - Los Angeles, New Paltz(NY).
@@ -195,6 +196,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 
 * [La Maison](http://alamaison.fr/) - Paris.
 * [Laika](http://laika.com/) - Portland.
+* [Legend3D](http://legend3d.com/) - Los Angeles.
 * [Level 256](http://www.level256vfx.com/) - Los Angeles.
 * [Liga 01](http://www.liga01.com/) - Munich.
 * [LipSync Post](http://www.lipsyncpost.co.uk/) - London.
