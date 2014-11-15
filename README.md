@@ -47,9 +47,13 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 
 * [A52](http://www.a52.com/) - Los Angeles.
 * [Aardman](http://www.aardman.com/) - Bristol.
+* [Absolute Post](http://www.absolutepost.com/) - London, New York City.
 * [Acht](http://acht-imaging.com/) - Frankfurt, Hamburg.
+* [ACME Digital Pictures](http://acmedigitalpictures.com/) - Toronto.
 * [Aixsponza](http://www.aixsponza.com/) - Munich.
 * [Alphaville](http://alphaville.se/) - Stockholm.
+* [Alter Ego](http://www.alteregopost.com/) - Toronto.
+* [Alvernia Studios](http://www.alvernia.com/) - Alwernia.
 * [Anima Istanbul](http://www.animaistanbul.com/) - Istanbul.
 * [Animal Logic](http://www.animallogic.com/) - Los Angeles, **Sydney**.
 * [Animationsfabrik](http://www.animationsfabrik.de/) - Hamburg.
