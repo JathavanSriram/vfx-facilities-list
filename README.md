@@ -51,6 +51,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Acht](http://acht-imaging.com/) - Frankfurt, Hamburg.
 * [ACME Digital Pictures](http://acmedigitalpictures.com/) - Toronto.
 * [Aixsponza](http://www.aixsponza.com/) - Munich.
+* [Alchemy24](http://alchemy24.com/) - Montreal.
 * [Alphaville](http://alphaville.se/) - Stockholm.
 * [Alter Ego](http://www.alteregopost.com/) - Toronto.
 * [Alvernia Studios](http://www.alvernia.com/) - Alwernia.
@@ -63,15 +64,20 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Arri](http://www.arrivfx.de/en/) - Berlin, Cologne, Munich.
 * [Arsenal FX](http://arsenalfx.tv/) - Los Angeles.
 * [Artifex Animations Studios](http://www.aastudios.ca/) - Montreal.
+* [Asymmetric VFX Studio](http://a-vfx.ru/) - Moscow. 
+* [Ateliervfx](http://www.ateliervfx.com/) - Brussels, Montreal, Paris.
 * [Atomic Fiction](http://atomicfiction.com/) - Los Angeles, Montreal, Oakland.
 * [Axis Animation](http://www.axisanimation.com/) - Glasgow. 
 
 # B
 
+* [Bait Studio](http://www.baitstudio.com/) - Cardiff.
 * [bakedFX](http://bakedfx.com/) - Los Angeles.
+* [BarXseven](http://www.barxseven.com/) - Montreal, Vancouver.
 * [Baseblack](http://baseblack.com/) - London.
 * [Base FX](http://www.base-fx.com/) - Beijing, Wuxi.
 * [Big Lazy Robot](http://biglazyrobot.com/) - Barcelona.
+* [Bitt](http://www.bittanimation.com/) - Buenos Aires.
 * [Blackginger](http://www.blackginger.tv/) - Cape Town.
 * [Blackmountain](http://www.blackmountain.de/) - Stuttgart.
 * [Black Sail Pictures](http://www.blacksail.de/) - Berlin.
@@ -81,6 +87,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [BlueSky Studios](http://blueskystudios.com/) - Greenwich.
 * [Blur Studios](http://blur.com/) - Los Angeles.
 * [Brainstorm Digital](http://www.brainstorm-digital.com/) - New York City.
+* [Brett&Cie](http://www.brettetcie.com/) - Paris.
 * [Brickyard VFX](http://www.brickyardvfx.com/) - Los Angeles, Boston.
 * [Brokendoll](http://www.brokendoll.com/) - Stockholm.
 * [Buck](http://www.buck.tv/) - Los Angeles, New York City.
@@ -94,13 +101,16 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Cause+FX](http://www.causefx.co.nz/) - Auckland.
 * [ChezEddy](http://www.chezeddy.com/) - Paris.
 * [Celluiloid VFX](http://celluloid-vfx.com/) - Berlin.
+* [CGEV](http://www.cgev.fr/) - Paris.
 * [Chimney](http://www.chimneygroup.com/) - Berlin, Frankfurt, Singapore, Stockholm, Sydney, Warsaw.
 * [Chris Creatures Filmeffects](http://www.chriscreatures.com/) - Berlin.
 * [Cinesite](http://www.cinesite.com/) - **London**, Montreal.
+* [Circus](http://www.circus.fr/) - Paris.
 * [Coffee and Pixels](http://www.coffeeandpixels.net/) - Denver.
 * [Comen VFX](http://www.comenvfx.com/) - Los Angeles.
 * [Congaz](http://www.congaz.de/) - Berlin, Duesseldorf.
 * [Crazy Horse Effects](http://www.chevfx.com/) - Los Angeles, New Paltz(NY).
+* [Cube Creative](http://www.cube-creative.fr/) - Paris.
 * [Cutting Edge](http://www.cuttingedge.com.au/) - Brisbane, Melbourne, Sydney.
 
 # D
@@ -108,12 +118,15 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Das Werk](http://www.das-werk.de/) - Amsterdam, Berlin, Cologne, Duesseldorf, Frankfurt, Hamburg, Munich.
 * [D-Facto Motion](http://www.vfx.d-facto-motion.com/) - Berlin, Cologne, Hamburg, Munich, Stuttgart.
 * [Deli Pictures](http://www.delipictures.de/) - Hamburg.
+* [Dexter Digital](http://www.dexterstudios.com/) - Paju.
 * [Digic Pictures](http://www.digicpictures.com/) - Budapest.
 * [Digiscope](http://www.digiscope.com/) - Los Angeles.
 * [Digital Dimension](http://www.digitaldimension.com/) - Montreal.
 * [Digital District](http://www.digital-district.fr) - Brussels, Montreal, **Paris**, Shanghai.
 * [Digital Domain](http://www.digitaldomain.com) - Los Angeles, Vancouver.
+* [Digital Idea](http://www.digitalidea.co.kr/) - Goyang.
 * [Digital Kitchen Studios](http://www.dkstudios.com/) - Chicago, Los Angeles, Seattle.
+* [Dive](http://www.divevisual.com/) - New York City, Philadelphia.
 * [Double Negative](http://www.dneg.com) - **London**, Singapore, Vancouver.
 * [Dreamsworks Animation](http://www.dreamworksanimation.com/) - Glendale, Redwood City, Shanghai.
 * [Drive VFX](http://www.drive-vfx.com/) - Montreal.
@@ -128,6 +141,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Eight VFX](http://www.eightvfx.com) - London, Los Angeles, New York City.
 * [Electric Theatre Collective](http://electrictheatre.tv/) - London.
 * [Elefant Studios](http://www.elefantstudios.ch/) - Zurich.
+* [El Ranchito](http://www.elranchito.es/) - Barcelona, Madrid.
 * [Encore](http://www.encorepost.com/) - London, Los Angeles, New York City, Vancouver.
 * [Engine Room](http://www.engineroomhollywood.com/) - Los Angeles.
 * [Entity FX](http://www.entityfx.com/) - Los Angeles, Vancouver.
@@ -162,7 +176,9 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [GeniusPark](http://genius-park.com/) - Istanbul.
 * [Ghost VFX](http://ghost.dk/) - Copenhagen, Viborg.
 * [GiantMilkCan](http://www.giantmilkcan.com/) - Hamburg.
-* [Glassworks](http://www.glassworks.co.uk/) - Amsterdam, Barcelona, London. 
+* [Glassworks](http://www.glassworks.co.uk/) - Amsterdam, Barcelona, London.
+* [Gloo Studios](http://www.gloostudios.com/) - Burnaby.
+* [Goldtooth Creative](http://goldtoothcreative.com/) - Vancouver.
 * [Gradient Effects](http://www.gradientfx.com/) - Frankfurt, Istanbul, London, Los Angeles.
 * [Grid VFX](http://www.grid-vfx.com/) - Brussels.
 * [Ground Studios](http://www.ground-studios.com/) - Duesseldorf.
@@ -184,6 +200,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Ilion Animation Studios](http://www.ilion.com/) - Madrid.
 * [Iloura](http://iloura.com/) - Melbourne, Sydney.
 * [Image Engine](http://image-engine.com) - Vancouver.
+* [Image In Work](http://www.imageinwork.fr/) - Paris.
 * [Imaginary Forces](http://www.imaginaryforces.com/) - Los Angeles, New York.
 * [Important Looking Pirates](http://ilpvfx.com/) - Stockholm. 
 * [Industrial Light & Magic](http://www.ilm.com/) - London, **San Francisco**, Singapore, Vancouver.
@@ -222,18 +239,21 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 
 * [MAC GUFF](http://www.macguff.com/) - Brussels, **Paris**.
 * [Mackevision](http://www.mackevision.de/) -  Detroit, Hamburg, London, Los Angeles, Munich, Shanghai, **Stuttgart**.
+* [Macrograph](http://www.macrograph.co.kr/) - Seoul.
 * [Madness](http://www.3dmadness.de/) - Goeppingen.
 * [Magna Mana](http://www.magnamana.com/) - Frankfurt.
 * [Magnetic Dreams](http://www.magneticdreams.com/) - Nashville.
 * [Main Road Post](http://www.mrpost.ru/) - Moscow.
 * [Makuta VFX](http://www.makutavfx.com/) - Hyderabad.
 * [Mark 13](http://www.mark13.com/) - Berlin, Stuttgart.
+* [Marza](http://www.marza.com/) - Tokyo.
 * [Mass Market](http://www.massmarket.tv/) - Los Angeles, New York City.
+* [Mathematic](http://www.mathematic.tv/) - Paris.
 * [Meindbender](http://www.meindbender.com/) - Goeteborg.
 * [Method Studios](http://www.methodstudios.com/) - Atlanta, Chicago, Detroit, London, **Los Angeles**, Melbourne, New York City, Sydney, Vancouver.
 * [Mikros Image](http://www.mikrosimage.eu/) - Brussels, Liege, Montreal, **Paris**.
 * [Milk VFX](http://www.milk-vfx.com/) - London.
-* [MinimoVfx](http://www.minimovfx.com/) - Barcelona.
+* [Minimo VFX](http://www.minimovfx.com/) - Barcelona.
 * [Modus X](http://www.modus-x.de/) - Munich.
 * [Mojo](http://www.mojofx.net/) - Istanbul.
 * [Mokko Studio](http://mokkostudio.com/) - Beijing, Los Angeles, **Montreal**.
@@ -255,9 +275,12 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 # O
 
 * [Oblique FX](http://www.obliquefx.com/) - Montreal.
+* [Ollin VFX](http://vfx.ollin.com.mx/) - Mexico City.
+* [Omnibus Japan](http://www.omnibusjp.com/) - Tokyo.
 * [Omstudios](http://www.omstudios.de/) - Berlin.
 * [One of Us](http://www.weacceptyou.com/) - London.
 * [OneSize](http://onesize.nl/) - Amsterdam, Los Angeles.
+* [Onirikal Studio](http://www.onirikal.com/) - Barcelona.
 * [Optix](http://www.optixhamburg.de/) - Berlin, Dubai, Hamburg.
 
 # P
@@ -266,6 +289,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Parosol Island](http://www.parasol-island.com/) - Berlin, Duesseldorf.
 * [Pascal Blais Studios](http://www.pascalblais.com/) - Montreal.
 * [Past The Post](http://nottoscale.tv/past-the-post/) - London.
+* [Peerless Camera Company](http://www.peerless.co.uk/) - London.
 * [Pendulum Studios](http://www.studiopendulum.com/) - Los Angeles.
 * [Phosphene](http://phosphenefx.com/) - New York City.
 * [Picture Mill](http://www.picturemill.com/) - Los Angeles.
@@ -292,6 +316,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 
 * [Rainmaker](http://www.rainmaker.com/) - Vancouver.
 * [Raynault VFX](http://www.raynault.com/) - Montreal.
+* [RealtimeUK](http://www.realtimeuk.com/) - Lancashire, Manchester.
 * [Red Chillies VFX](http://www.redchilliesvfx.com/) - Mumbai.
 * [Reliance Media Works](http://www.reliancemediaworks.com/) - Los Angeles, Mumbai.
 * [Resolution](http://www.resolution.la/) - Los Angeles.
@@ -306,10 +331,12 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 
 * [Scanline VFX](http://www.scanlinevfx.com) - Cologne, Munich, Los Angeles, Vancouver.
 * [Scoundrel](http://www.scoundrelvfx.com/) - Los Angeles.
+* [Screen Scene](http://www.screenscene.ie/) - Dublin.
 * [Seed Animation Studio](http://www.seedanimation.com/) - London.
 * [Sehsucht](http://www.sehsucht.de/) - Berlin, Hamburg.
 * [Shade VFX](http://www.shadevfx.com/) - Los Angeles, New York City.
 * [Shed](http://shedmtl.com/) - Montreal.
+* [Shirogumi Inc.](http://www.shirogumi.com/) - Tokyo.
 * [Sinefekt](http://www.sinefekt.net/EN/) - Istanbul.
 * [Smoke&Mirrors](http://www.smoke-mirrors.com/) - London, New York City, Shanghai.
 * [Snowball Studios](http://www.snowballvfx.com/) - London, New York City, Tel Aviv, Toronto.
@@ -329,19 +356,23 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 
 * [Ten 24](http://www.ten24.info/) - Sheffield.
 * [Tendril](http://www.tendril.ca/) - Toronto.
+* [Territory](http://www.territorystudio.com/) - London.
 * [Theory FX](http://www.theoryfx.com/) - Los Angeles.
 * [The Brewery](http://www.brewery-vfx.com/) - London.
 * [The Embassy](http://theembassyvfx.com/) - Vancouver.
 * [The Frank Barton Company](http://www.thefrankbartoncompany.com/) - Madrid.
 * [The Marmelade](http://www.themarmalade.com/) - Duesseldorf, Frankfurt, Hamburg.
-* [The Mill](http://www.themill.com/)
+* [The Mill](http://www.themill.com/) - Chicago, London, Los Angeles, New York City. 
+* [The Molecule](http://www.themolecule.com/) - Los Angeles, New York City.
 * [The Moving Picture Company](http://www.moving-picture.com/) - Amsterdam, Bangalore, **London**, Los Angeles, Mexico City, Montreal, New York City, Vancouver.
 * [The Senate VFX](http://www.senatevfx.com/) - London, Twickenham.
+* [The Sequence Group](http://www.thesequencegroup.com/) - Vancouver.
 * [The Third Floor](http://www.thethirdfloorinc.com) - London, Los Angeles, Montreal.
 * [The Visual Effects Company](http://www.thevfxco.co.uk/) - London.
 * [Tilt](http://www.tilt-vfx.com/) - Kiev.
 * [Tippett Studio](http://www.tippett.com/) - Berkeley.
-* [Toppix](http://www.topixfx.com/) - Toronto. 
+* [Toppix](http://www.topixfx.com/) - Toronto.
+* [Trimaran](http://www.trimaran.com/) - Paris.
 * [Trixter](http://www.trixter.de/) - Berlin, Los Angeles, Munich.
 * [Troublemaker Studios](http://www.troublemakerstudios.com/) - Austin.
 
@@ -351,6 +382,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [UMedia VFX](http://www.umedia.eu/) - Brussels, London.
 * [Uncharted Territory](http://www.uncharted-territory.com/) - Los Angeles.
 * [Unexpected](http://www.unexpected.de/) - Stuttgart.
+* [Union VFX](http://www.unionvfx.com/) - London. 
 * [Unit Image](http://www.unit-image.fr/) - Paris.
 * [UPP](http://www.upp.cz/) - Prague.
 
@@ -359,6 +391,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Velvet](http://www.velvet.de/) - Munich.
 * [Vine FX](http://www.vine.tv/) - London.
 * [Virtual Republic](http://www.virtualrepublic.org/) - Duesseldorf.
+* [Vision Globale](http://www.visionglobale.com/) - Montreal.
 * [Vitamin Pictures](http://vitaminpictures.tv/) - Chicago.
 
 # W
@@ -367,6 +400,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [WeAreFlink](http://www.weareflink.com/) - Hamburg.
 * [Weta Digital](https://www.wetafx.co.nz) - Wellington.
 * [Whiskytree](http://www.whiskytree.com/) - San Rafael.
+* [Windmill Lane](http://www.windmilllane.com/) - Dublin.
 * [Wizz](http://www.wizz.fr/) - Paris.
 * [WorldWide FX](http://www.wwfx.net/) - Shreveport, Sofia.
 
@@ -376,4 +410,5 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 
 # Z
 
+* [Zero VFX](https://www.zerovfx.com) - Boston.
 * [Zoic Studios](http://www.zoicstudios.com) - Los Angeles, Vancouver.
