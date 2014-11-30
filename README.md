@@ -99,9 +99,9 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Cantina Creative](http://cantinacreative.com/) - Los Angeles.
 * [Capture Media](http://www.capture-mm.de/) - Duesseldorf.
 * [Cause+FX](http://www.causefx.co.nz/) - Auckland.
-* [ChezEddy](http://www.chezeddy.com/) - Paris.
 * [Celluiloid VFX](http://celluloid-vfx.com/) - Berlin.
 * [CGEV](http://www.cgev.fr/) - Paris.
+* [ChezEddy](http://www.chezeddy.com/) - Paris.
 * [Chimney](http://www.chimneygroup.com/) - Berlin, Frankfurt, Singapore, Stockholm, Sydney, Warsaw.
 * [Chris Creatures Filmeffects](http://www.chriscreatures.com/) - Berlin.
 * [Cinesite](http://www.cinesite.com/) - **London**, Montreal.
@@ -109,6 +109,7 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 * [Coffee and Pixels](http://www.coffeeandpixels.net/) - Denver.
 * [Comen VFX](http://www.comenvfx.com/) - Los Angeles.
 * [Congaz](http://www.congaz.de/) - Berlin, Duesseldorf.
+* [CoSA VFX](http://www.cosavfx.com/) - Los Angeles, Vancouver. 
 * [Crazy Horse Effects](http://www.chevfx.com/) - Los Angeles, New Paltz.
 * [Cube Creative](http://www.cube-creative.fr/) - Paris.
 * [Cutting Edge](http://www.cuttingedge.com.au/) - Brisbane, Melbourne, Sydney.
@@ -413,5 +414,3 @@ includes previz, post-viz, cg, animation, stereo conversion and general R&D comp
 
 * [Zero VFX](https://www.zerovfx.com) - Boston.
 * [Zoic Studios](http://www.zoicstudios.com) - Los Angeles, Vancouver.
-
-* KATZEN
