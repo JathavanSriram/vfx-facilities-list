@@ -67,6 +67,7 @@ Is your facility missing? If you want to add a facility to the list, please [ask
 * [Asymmetric VFX Studio](http://a-vfx.ru/) - Moscow.
 * [Ateliervfx](http://www.ateliervfx.com/) - Brussels, Montreal, Paris.
 * [Atomic Fiction](http://atomicfiction.com/) - Los Angeles, Montreal, Oakland.
+* [Atomo](http://atomovfx.com.br/) - Sao Paulo.
 * [Axis Animation](http://www.axisanimation.com/) - Glasgow.
 
 # B
@@ -268,6 +269,7 @@ Is your facility missing? If you want to add a facility to the list, please [ask
 
 * [New Deal Studios](https://newdealstudios.com/) - Los Angeles.
 * [nhb](http://www.nhb.de/) - Berlin, Duesseldorf, Hamburg.
+* [nineteentwenty](http://www.nineteen-twenty.com/) - Bristol, London.
 * [Nozon](http://www.nozon.com/) - Brussels, Liege, Paris.
 * [Ntropic](http://www.ntropic.com/) - Los Angeles, New York City, San Francisco.
 * [Nvizible](http://www.nvizible.com/) - London.
