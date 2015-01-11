@@ -330,6 +330,7 @@ Is your facility missing? If you want to add a facility to the list, please [ask
 * [Rise FX](http://www.risefx.com/) - Berlin, Cologne, Halle, Vienna.
 * [Rising Sun Pictures](http://rsp.com.au/) - Adelaide.
 * [Robotika](http://robotika.com.tr/) - Istanbul.
+* [Rocket Science VFX](http://rsvfx.com/) - Toronto.
 * [Rodeo FX](http://www.rodeofx.com/) - Montreal, New York City, Quebec City.
 * [Rotomaker](http://rotomaker.com/) - Hyderabad.
 * [Rushes](http://www.rushes.co.uk/) - London.
