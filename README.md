@@ -131,11 +131,13 @@ Is your facility missing? If you want to add a facility to the list, please [ask
 * [Digital Kitchen Studios](http://www.dkstudios.com/) - Chicago, Los Angeles, Seattle.
 * [Dive](http://www.divevisual.com/) - New York City, Philadelphia.
 * [Double Negative](http://www.dneg.com/) - **London**, Singapore, Vancouver.
+* [Drawn By The Light VFX](http://www.dblvfx.com/) - Los Angeles, Vancouver.
 * [Dreamsworks Animation](http://www.dreamworksanimation.com/) - Glendale, Redwood City, Shanghai.
 * [Drive VFX](http://www.drive-vfx.com/) - Montreal.
 * [Duck](http://www.duckstudios.com/) - Los Angeles.
 * [Duckling](http://duckling.dk/) - Copenhagen.
 * [Dvein](http://www.dvein.com/) - Barcelona.
+* [Dwarf Animation Studio](http://www.dwarf-labs.com/) - Montpellier.
 
 # E
 
@@ -289,6 +291,7 @@ Is your facility missing? If you want to add a facility to the list, please [ask
 
 # P
 
+* [Painting Practice](http://paintingpractice.com/) - London.
 * [Palma VFX](http://palmavfx.com/) - San Francisco.
 * [Parosol Island](http://www.parasol-island.com/) - Berlin, Duesseldorf.
 * [Pascal Blais Studios](http://www.pascalblais.com/) - Montreal.
@@ -338,6 +341,7 @@ Is your facility missing? If you want to add a facility to the list, please [ask
 # S
 
 * [Scanline VFX](http://www.scanlinevfx.com/) - Cologne, Munich, Los Angeles, Vancouver.
+* [Scarecrow VFX](https://www.scarecrowvfx.com) - Bangalore, Los Angeles, Virtual.
 * [Scoundrel](http://www.scoundrelvfx.com/) - Los Angeles.
 * [Screen Scene](http://www.screenscene.ie/) - Dublin.
 * [Seed Animation Studio](http://www.seedanimation.com/) - London.
@@ -355,6 +359,7 @@ Is your facility missing? If you want to add a facility to the list, please [ask
 * [Squeeze Studio Animation](http://www.squeezestudio.com/) - Quebec.
 * [Squid Lab](http://www.squid-lab.com/) - Sinop.
 * [Stargate Studios](http://www.stargatestudios.net/) - Atlanta, Bahar ic-Caghaq, Berlin, Cologne, Dubai, Los Angeles, Toronto, Vancouver.
+* [Stereo D](http://www.stereodllc.com/) - Los Angeles, Pune, Toronto. 
 * [Stopp](http://www.stopp.se/) - London, Los Angeles, New York City, Stockholm.
 * [Studio Aka](http://www.studioaka.co.uk/) - London.
 * [Suedlich-t](http://www.lich-t.info/) - Munich, Zurich.
@@ -401,6 +406,7 @@ Is your facility missing? If you want to add a facility to the list, please [ask
 * [Vine FX](http://www.vine.tv/) - London.
 * [Virtual Republic](http://www.virtualrepublic.org/) - Duesseldorf.
 * [Vision Globale](http://www.visionglobale.com/) - Montreal.
+* [Visual Creatures](http://visualcreatures.com/) - Los Angeles.
 * [Vitamin Pictures](http://vitaminpictures.tv/) - Chicago.
 
 # W
