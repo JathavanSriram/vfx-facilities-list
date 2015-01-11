@@ -73,6 +73,7 @@ Is your facility missing? If you want to add a facility to the list, please [ask
 # B
 
 * [Bait Studio](http://www.baitstudio.com/) - Cardiff.
+* [BaconX](http://baconx.com/) - Copenhagen.
 * [bakedFX](http://bakedfx.com/) - Los Angeles.
 * [BarXseven](http://www.barxseven.com/) - Montreal, Vancouver.
 * [Baseblack](http://baseblack.com/) - London.
@@ -321,7 +322,9 @@ Is your facility missing? If you want to add a facility to the list, please [ask
 * [Raynault VFX](http://www.raynault.com/) - Montreal.
 * [RealtimeUK](http://www.realtimeuk.com/) - Lancashire, Manchester.
 * [Red Chillies VFX](http://www.redchilliesvfx.com/) - Mumbai.
+* [Reel FX](http://www.reelfx.com/) - Dallas, Los Angeles.
 * [Reliance Media Works](http://www.reliancemediaworks.com/) - Los Angeles, Mumbai.
+* [Renderbaron](http://renderbaron.de/) - Duesseldorf.
 * [Resolution](http://www.resolution.la/) - Los Angeles.
 * [Rhythm and Hues Studios](http://www.rhythm.com/) - Hyderabad, Los Angeles, Mumbai,Vancouver.
 * [Rise FX](http://www.risefx.com/) - Berlin, Cologne, Halle, Vienna.
