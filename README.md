@@ -341,7 +341,7 @@ Is your facility missing? If you want to add a facility to the list, please [ask
 # S
 
 * [Scanline VFX](http://www.scanlinevfx.com/) - Cologne, Munich, Los Angeles, Vancouver.
-* [Scarecrow VFX](https://www.scarecrowvfx.com) - Bangalore, Los Angeles, Virtual.
+* [Scarecrow VFX](https://www.scarecrowvfx.com/) - Bangalore, Los Angeles, Virtual.
 * [Scoundrel](http://www.scoundrelvfx.com/) - Los Angeles.
 * [Screen Scene](http://www.screenscene.ie/) - Dublin.
 * [Seed Animation Studio](http://www.seedanimation.com/) - London.
@@ -359,7 +359,7 @@ Is your facility missing? If you want to add a facility to the list, please [ask
 * [Squeeze Studio Animation](http://www.squeezestudio.com/) - Quebec.
 * [Squid Lab](http://www.squid-lab.com/) - Sinop.
 * [Stargate Studios](http://www.stargatestudios.net/) - Atlanta, Bahar ic-Caghaq, Berlin, Cologne, Dubai, Los Angeles, Toronto, Vancouver.
-* [Stereo D](http://www.stereodllc.com/) - Los Angeles, Pune, Toronto. 
+* [Stereo D](http://www.stereodllc.com/) - Los Angeles, Pune, Toronto.
 * [Stopp](http://www.stopp.se/) - London, Los Angeles, New York City, Stockholm.
 * [Studio Aka](http://www.studioaka.co.uk/) - London.
 * [Suedlich-t](http://www.lich-t.info/) - Munich, Zurich.
