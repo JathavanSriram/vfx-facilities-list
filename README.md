@@ -353,7 +353,7 @@ Is your facility missing? If you want to add a facility to the list, please [ask
 * [Sony Pictures Imageworks](http://www.imageworks.com/) - Los Angeles, **Vancouver**.
 * [SPIN VFX](http://www.spinvfx.com/) - Toronto.
 * [Squeeze Studio Animation](http://www.squeezestudio.com/) - Quebec.
-* [Squid Lab](http://www.squid-lab.com/) - Sinop. 
+* [Squid Lab](http://www.squid-lab.com/) - Sinop.
 * [Stargate Studios](http://www.stargatestudios.net/) - Atlanta, Bahar ic-Caghaq, Berlin, Cologne, Dubai, Los Angeles, Toronto, Vancouver.
 * [Stopp](http://www.stopp.se/) - London, Los Angeles, New York City, Stockholm.
 * [Studio Aka](http://www.studioaka.co.uk/) - London.
