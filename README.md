@@ -41,6 +41,7 @@ Is your facility missing? If you want to add a facility to the list, please [ask
 
 * [1000volt](http://www.1000volt.com.tr/) - Istanbul, Los Angeles.
 * [3DXCITE](http://www.rtt.ag/) - Brussels, Detroit, London, Los Angeles, **Munich**, Seoul, Shanghai, Tokyo.
+* [4DMax](http://www.4dmax.co.uk/) - London.
 * [567vfx](http://www.567vfx.ca/) - Toronto.
 
 # A
@@ -385,6 +386,7 @@ Is your facility missing? If you want to add a facility to the list, please [ask
 * [The Visual Effects Company](http://www.thevfxco.co.uk/) - London.
 * [Tilt](http://www.tilt-vfx.com/) - Kiev.
 * [Tippett Studio](http://www.tippett.com/) - Berkeley.
+* [TNG Visual Effects](http://www.tngvisualeffects.com/) - Los Angeles, Toronto, Vancouver.
 * [Toppix](http://www.topixfx.com/) - Toronto.
 * [Trimaran](http://www.trimaran.com/) - Paris.
 * [Trixter](http://www.trixter.de/) - Berlin, Los Angeles, Munich.
