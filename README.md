@@ -49,6 +49,7 @@ Is your facility missing? If you want to add a facility to the list, please [ask
 * [A52](http://www.a52.com/) - Los Angeles.
 * [Aardman](http://www.aardman.com/) - Bristol.
 * [Absolute Post](http://www.absolutepost.com/) - London, New York City.
+* [AB Studios](http://abvfxstudios.com/) - Mumbai.
 * [Acht](http://www.acht-imaging.com/) - Frankfurt, Hamburg.
 * [ACME Digital Pictures](http://www.acmedigitalpictures.com/) - Toronto.
 * [Aixsponza](http://www.aixsponza.com/) - Munich.
