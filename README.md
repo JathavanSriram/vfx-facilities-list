@@ -195,6 +195,7 @@ Is your facility missing? If you want to add a facility to the list, please [ask
 * [Halon](http://www.halon.com/) - Los Angeles.
 * [Hammerhead Productions](http://www.hammerhead.com/) - Los Angeles.
 * [Helmet](http://www.helmet.no/) - Trondheim.
+* [HOAX Films](http://www.hoaxfilms.com/) - Los Angeles.
 * [HOPR](http://hopr.tv/) - New York City.
 * [House Special](http://www.housespecial.com/) - Portland.
 * [Hoxton Redsox](http://www.hoxtonredsox.com/) - London.
