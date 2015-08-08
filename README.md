@@ -171,6 +171,8 @@ Is your facility missing? If you want to add a facility to the list, please [ask
 * [Framework Studio](http://frameworkla.com/) - Los Angeles.
 * [Frima FX Studio](http://frimastudio.com/) - Montreal.
 * [Frost FX](http://frostfx.ee/) - Tallinn.
+* [FUSEFX](http://fusefx.com/) - Los Angeles, New York, Vancouver.
+* [Fusion CI Studios](http://fusioncis.com/) - Los Angeles, Vancouver.
 * [fx3x](http://www.fx3x.com/) -  Skopje.
 * [FX Factory](http://fxit.de/) - Berlin.
 
@@ -253,6 +255,7 @@ Is your facility missing? If you want to add a facility to the list, please [ask
 * [Magnetic Dreams](http://www.magneticdreams.com/) - Nashville.
 * [Main Road Post](http://www.mrpost.ru/) - Moscow.
 * [Makuta VFX](http://www.makutavfx.com/) - Hyderabad.
+* [Mammal Studios](http://www.mammalstudios.com/) - Los Angeles.
 * [Mark 13](http://www.mark13.com/) - Berlin, Stuttgart.
 * [Marza](http://www.marza.com/) - Tokyo.
 * [Mass Market](http://www.massmarket.tv/) - Los Angeles, New York City.
