@@ -414,6 +414,7 @@ Is your facility missing? If you want to add a facility to the list, please [ask
 * [Virtual Republic](http://www.virtualrepublic.org/) - Duesseldorf.
 * [Vision Globale](http://www.visionglobale.com/) - Montreal.
 * [Visual Creatures](http://visualcreatures.com/) - Los Angeles.
+* [Vitality VFX](http://vitalityvfx.com/) - Los Angeles, Vancouver.
 * [Vitamin Pictures](http://vitaminpictures.tv/) - Chicago.
 
 # W
